@@ -7,7 +7,9 @@ The paper can be found in [arXiv](https://doi.org/10.48550/arXiv.2301.10750)
 
 ## Author
 
-Md Salman Rahman(salman@nyu.edu) and Wonkwon Lee (wl2733@nyu.edu)
+Md Salman Rahman(salman@nyu.edu) and Wonkwon Lee(wl2733@nyu.edu)
+
+Professor Rob Fergus(fergus@cs.nyu.edu)
 
 ## Summary
 This research work provides a fair and in-depth out-of-distribution robustness comparison among 58 state-of-the-art computer vision model such as vision transformers, convolution, combination of convolution and attention, multi layer perceptron, sequence-based model,
